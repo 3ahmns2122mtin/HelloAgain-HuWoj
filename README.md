@@ -1,5 +1,25 @@
 # Übung01 - HelloAgain Aufgabenbeschreibung
 
+### Projektbeschreibung: 
+Dieses Projekt dient der Einarbeitung in Untiy für die selbstständige Erstellung zukünftiger 2D Projekte. 
+Ein einfaches Unity 2D Projekt wird erstellt, als WebGL exportiert und auf GitHub Pages veröffentlicht. 
+Das Projekt enthält eine Szene. Die Szene besteht aus einem screenindependent Canvas (960x600).
+Auf dem Canvas befindet sich mindestens ein Text und ein Image GameObject. 
+Die Benennung der Objekte in der Hierarchy, wie auch die Benennung der Elemente in der Project Pane, folgt der PascalCase Notation.
+
+### Entwicklungsplattform: 
+Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
+
+### Zielplattform: 
+WebGL Referenzauflösung (960x600) 
+https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
+
+### Visuelle Einblicke in das Projekt: 
+![sc-ue01helloagain](https://user-images.githubusercontent.com/28704310/132992326-6bd52f52-8af3-48e5-8406-060d0270f158.JPG)
+
+### Notwendiges für die Ausführung: 
+Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
+
 ### Anforderungen:  
 - [x] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
 - [x] In Assets einen Folder MyGame erstellen und den Scenes Folder in diesen MyGame Folder ziehen
